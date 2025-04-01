@@ -1,0 +1,5 @@
+virtual-env/*
+*.log
+*.aux
+*.pdf
+*.tex
